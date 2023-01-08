@@ -39,7 +39,7 @@ sensor:
 
 ## 相关链接
 
-- [大金空气传感器教程,参考娄佬的教程](http://daikin.shuishushi.com/product/237.html)
+- [大金空气传感器教程,参考娄佬的教程](https://github.com/louliangsheng/daikin-air-sensor)
 - [奋斗大佬的PM2005(PM2105)库文件](https://github.com/nixieclock)
 - [CO2 cm1106库文件](https://github.com/LeoDJ/ESPHome_Nodes)
 - [CUBIC PM2005/PM2105 I2C ESPHOME](https://github.com/miwyf/pm2105)
